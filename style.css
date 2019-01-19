@@ -1,0 +1,30 @@
+body{
+    background-color: #777;
+    
+}
+
+header{
+    background-color: #ebebeb;
+    size: 50px;
+    width: 50%;
+}
+
+nav{
+    background-color: #ebebeb;
+    width: 50%;
+}
+
+section{
+    margin: 5px;
+    border: solid black;
+}
+
+article{
+    margin: 5px;
+    border: solid black;
+}
+
+aside{
+    margin: 8px;
+    border: solid black;
+}
